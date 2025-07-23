@@ -20,10 +20,7 @@
 </p>
 </div>
 
-## 🔥 News
-- 🎉 We have released the evaluation code, allowing you to customize your own evaluation pipeline.
-- 🎉 Our framework integrates various embedding models, enabling you to create your own retriever.
-- 🎉 We have released the ViDoSeek dataset, which is suitable for Retrieval-augmented Generation in the large visually rich document collection.
+
 
 ## 🚀Overview
 - We introduce **ViDoSeek**, a benchmark specifically designed for visually rich document retrieval-reason-answer, fully suited for evaluation of RAG within large document corpus.
